@@ -11,7 +11,8 @@ Bu repoda, 07 - 10 Ocak 2022 tarihleri arasında Academy Peak Bilgi Teknolojiler
 2 Kurulum ve İlk Proje Oluşturma
 3 Çalışma Ortamı Tanıtımı ve İlk Programın Çalıştırılması
 4 Bir Projenin Android Studio İçerisinde Açılması
-Bölüm 2 : Değişkenler ve Veri Tipleri
+
+### Bölüm 2 : Değişkenler ve Veri Tipleri
 1 Değişken Oluşturma
 2 Constant - Sabitler
 3 Tür Dönüşümü
