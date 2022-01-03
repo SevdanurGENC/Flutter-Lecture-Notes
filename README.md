@@ -1,6 +1,6 @@
 # Flutter-Lecture-Notes
 
-![AP mavi logo](https://user-images.githubusercontent.com/5441882/147982609-78ed6545-581c-4ce1-9820-05e11c982d6a.png)
+![image](https://user-images.githubusercontent.com/5441882/147982669-e0f0ac50-48b7-4192-a315-58e00f17e7c3.png)
 
 In this repo, I have the course contents of the Flutter training, which will be given to Architecht by the cooperation of Academy Peak Information Technologies Training and Consultancy between  07-10 January 2022.
 
