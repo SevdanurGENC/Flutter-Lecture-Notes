@@ -1,4 +1,7 @@
 # Flutter-Lecture-Notes
+
+![AP mavi logo](https://user-images.githubusercontent.com/5441882/147982609-78ed6545-581c-4ce1-9820-05e11c982d6a.png)
+
 In this repo, I have the course contents of the Flutter training, which will be given to Architecht by the cooperation of Academy Peak Information Technologies Training and Consultancy between  07-10 January 2022.
 
 Bu repoda, 07 - 10 Ocak 2022 tarihleri arasında Academy Peak Bilgi Teknolojileri Eğitim ve Danışmanlığı işbirliğiyle tarafımca Architecht şirketine verilecek olan Flutter eğitimine ait ders içeriklerim bulunmaktadır.
