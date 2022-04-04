@@ -2,9 +2,9 @@
 
 ![image](https://user-images.githubusercontent.com/5441882/147982669-e0f0ac50-48b7-4192-a315-58e00f17e7c3.png)
 
-In this repo, I have the course contents of the Flutter training, which will be given to Architecht by the cooperation of Academy Peak Information Technologies Training and Consultancy between  07-10 January 2022.
+In this repo, I have the course contents of the Flutter training, which will be given to Architecht by the cooperation of Academy Peak Information Technologies Training and Consultancy between  08-11 April 2022.
 
-Bu repoda, 07 - 10 Ocak 2022 tarihleri arasında Academy Peak Bilgi Teknolojileri Eğitim ve Danışmanlığı işbirliğiyle tarafımca Architecht şirketine verilecek olan Flutter eğitimine ait ders içeriklerim bulunmaktadır.
+Bu repoda, 08 - 11 Nisan 2022 tarihleri arasında Academy Peak Bilgi Teknolojileri Eğitim ve Danışmanlığı işbirliğiyle tarafımca Architecht şirketine verilecek olan Flutter eğitimine ait ders içeriklerim bulunmaktadır.
 
 
 # Flutter ile Android ve IOS Uygulama Geliştirme
