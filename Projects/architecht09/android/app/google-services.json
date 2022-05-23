@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237913591419",
+    "project_id": "architecht09",
+    "storage_bucket": "architecht09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237913591419:android:b74162b2ff37a482ecdcde",
+        "android_client_info": {
+          "package_name": "com.example.architecht09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237913591419-h9p0i2k2e2fh99jsts30a7stfqufe1k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.architecht09",
+            "certificate_hash": "2640e772579869ded392c19c7dcde96304a2dabc"
+          }
+        },
+        {
+          "client_id": "237913591419-surf6nqtbrrpu1qn54t3ht8o95th35dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHBq1LB35BpT2zMRReHLcBu5t4H3Lf4fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237913591419-surf6nqtbrrpu1qn54t3ht8o95th35dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
